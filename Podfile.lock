@@ -1,0 +1,30 @@
+PODS:
+  - NMPaginator (1.0.0)
+  - QuickBlox (2.4.5)
+  - Reachability (3.2)
+  - SDWebImage (3.7.3):
+    - SDWebImage/Core (= 3.7.3)
+  - SDWebImage/Core (3.7.3)
+  - SVProgressHUD (1.1.3)
+  - TTTAttributedLabel (1.13.4)
+  - TWMessageBarManager (1.7.2)
+
+DEPENDENCIES:
+  - NMPaginator
+  - QuickBlox (~> 2.4)
+  - Reachability
+  - SDWebImage
+  - SVProgressHUD (= 1.1.3)
+  - TTTAttributedLabel (~> 1.13)
+  - TWMessageBarManager (~> 1.7)
+
+SPEC CHECKSUMS:
+  NMPaginator: cfdce30d71807c8d24f5c885505348c51c05f8d2
+  QuickBlox: 672f5eb8b2beeba1ff208807ddc42c2b2b3b1c49
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  SDWebImage: 1d2b1a1efda1ade1b00b6f8498865f8ddedc8a84
+  SVProgressHUD: 748080e4f36e603f6c02aec292664239df5279c1
+  TTTAttributedLabel: 0a2ac7b2dd726d32a070dafb01446026b11e624f
+  TWMessageBarManager: e7adc066ee425174f5dee79473fce913b1cd1662
+
+COCOAPODS: 0.39.0

@@ -1,0 +1,8 @@
+platform :ios, '8.4'
+pod 'QuickBlox', '~> 2.4'
+pod 'SDWebImage'
+pod 'Reachability'
+pod 'NMPaginator'
+pod 'TTTAttributedLabel', '~> 1.13'
+pod 'TWMessageBarManager', '~> 1.7'
+pod 'SVProgressHUD', '1.1.3'
